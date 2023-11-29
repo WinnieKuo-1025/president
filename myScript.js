@@ -1,0 +1,3 @@
+function openResult(){
+    alert("click");
+}
